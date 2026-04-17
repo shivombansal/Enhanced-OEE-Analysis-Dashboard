@@ -161,11 +161,6 @@ Both use `temperature=0.7` and `0.4` respectively, and route through Portkey for
 
 **Adding new chart types:** Add new Plotly figures inside `create_visualizations()` and render them in the dashboard tab with `st.plotly_chart()`.
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of your dashboard, AI analysis output, and Q&A tab here.
 
 ---
 
